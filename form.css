@@ -1,0 +1,30 @@
+body { 
+      font-family: "Roboto Mono", monospace;
+      text-align: center;
+      background-image: url("https://th.bing.com/th/id/R.b3d7900b0fa49918dddf0d6191f73d62?rik=%2fFVLzDOSCU7VVQ&pid=ImgRaw&r=0");
+      color: white; }
+    
+    button {
+      color: rgb(255, 255, 255);
+      border: solid rgb(255, 255, 255);
+      text-align: center;
+      background-color: rgb(0, 0, 0); }
+
+    input {
+      color: rgb(255, 255, 255);
+      border: solid rgb(255, 255, 255);
+      text-align: center;
+      background-color: rgb(0, 0, 0); }
+
+    textarea {
+      color: rgb(255, 255, 255);
+      border: solid rgb(255, 255, 255);
+      text-align: center;
+      background-color: rgb(0, 0, 0); }
+
+    legend {
+      text-align: center; }
+    
+    div {
+      text-align: center; }
+  
